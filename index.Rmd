@@ -14,15 +14,15 @@ pacman::p_load(knitr)
 
 ###
 
-```{r, echo=FALSE, fig.cap="Ana Miller-ter Kuile", out.width = '30%', fig.align='center'}
+```{r, echo=FALSE, out.width = '30%', fig.align='center'}
 knitr::include_graphics("images/ana.png")
 ```
    
-<h6 style="text-align: center;" markdown="1">
+<h5 style="text-align: center;" markdown="1">
 
 Email: ana.miller-ter-kuile [at] nau [dot] edu
 
-</h6>     
+</h5>     
 
 I am an ecologist who works at the intersection of quantitative, community, and applied ecology.
 
