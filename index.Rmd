@@ -1,5 +1,5 @@
 ---
-title: "Welcome Hooman"
+title: ""
 output: 
   html_document:
     theme: yeti
@@ -14,18 +14,23 @@ pacman::p_load(knitr)
 
 ###
 
-```{r, echo=FALSE, fig.cap="Hi! I am Estrella.", out.width = '30%', fig.align='center'}
-knitr::include_graphics("my_smiling_face_here.jpg")
+```{r, echo=FALSE, fig.cap="Ana Miller-ter Kuile", out.width = '30%', fig.align='center'}
+knitr::include_graphics("images/ana.png")
 ```
    
 <h6 style="text-align: center;" markdown="1">
 
-Email: da_boss_estrella [at] hotmail [dot] com
+Email: ana.miller-ter-kuile [at] nau [dot] edu
 
 </h6>     
 
-I am a budding biolgist always curious about human behavior, especially the temporal patterns in which hoomans do and do not provide food. You can find out more about my day to day activities from some of my hooman friends, such as [Biplabendu Das](https://biplabendu.github.io/homepage/).
+I am an ecologist who works at the intersection of quantitative, community, and applied ecology.
 
+I am currently working as a postdoctoral researcher with a joint appointment between Northern Arizona University and the USDA Forest Service Rocky Mountain Research Station. I currently apply Bayesian statistical and process models to understand the population and community responses of wildlife to forest management and restoration.
+
+I received my PhD at UC Santa Barbara in 2021, where I explored the effects of species traits on trophic dynamics and the interactions between native and invasive species in shaping community structure and ecosystem functioning. I worked in field settings and developed methods in diet DNA metabarcoding for understanding species interactions.
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ----------------------------------
 
@@ -33,7 +38,14 @@ I am a budding biolgist always curious about human behavior, especially the temp
 
 ##
 
-2. _**Das, B.**, Brouns, R., Will, I., Brachmann, A., de Bekker, C. (2023)_ Using RNASeq to investigate the involvement of the _Ophiocordyceps_ clock in ant host infection and behavioral manipulation. _bioRxiv_ [*PDF*](https://www.biorxiv.org/content/10.1101/2023.01.20.524843v2.abstract)
+2. _**Miller-ter Kuile, A.**, A. Apigo, A. Bui, B. DiFiore, E. S. Forbes, M. Lee, D. Orr, D. L. Preston, R. Behm, T. Bogar, J. Childress, R. Dirzo, M. Klope, K. D. Lafferty, J. McLaughlin, M. Morse, C. Motta, K. Park, K. Plummer, D. Weber, R. Young, H. Young. (2022)_ Predator–prey interactions of terrestrial invertebrates are determined by predator body size and species identity. _Ecology_ [*PDF*](pdfs/Miller-terKuile_Ecology2022.pdf)
 
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1002/ecy.3634"></div>
 
-1. _**Das, B.**, Brachmann, A., de Bekker, C. (2023)_ Both behavior-manipulating and non-manipulating entomopathogenic fungi affect rhythmic gene expression in carpenter ant foragers upon infection. _bioRxiv_ [*PDF*](https://www.biorxiv.org/content/10.1101/2023.01.19.524837v2.abstract)
+---
+
+1. _**Miller-ter Kuile A.**, D. Orr, A. Bui, R. Dirzo, M. Klope, D. McCauley, C. Motta, H. Young (2020)_ Impacts of rodent eradication on seed predation and plant community biomass on a tropical atoll. _Biotropica_ [*PDF*](pdfs/Miller-terKuile_Biotropica2020.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1111/btp.12864"></div>
+
+---

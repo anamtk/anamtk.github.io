@@ -1,5 +1,5 @@
 name: 
-author: Biplabendu Das
+author: Ana Miller-ter Kuile
 output_dir: docs
 output:
   html_document:
@@ -7,17 +7,19 @@ output:
     lib_dir: site_libs
     self_contained: no
 navbar:
-  title: Estrella da Boss
+  title: Ana Miller-ter Kuile
   left:
   - text: Home
     href: index.html
     icon: fa-home
   - text: Research
     href: research.html
-    icon: fa-flask
+    icon: fa-signal
+  - text: CV
+    href: ./pdfs/Miller-terKuile_CV.pdf
+    icon: fa-id-card-o
   right:
-  - icon: fa-twitter
-    href: https://twitter.com/another_ant_guy
+  - icon: fa-github
+    href: https://github.com/anamtk
     align: right
-  - { icon: "fa-linkedin", href: "https://www.linkedin.com/in/biplabendu/", align: right }
-  - { icon: "fa-facebook", href: "https://www.facebook.com/biplabendu", align: right }
+  - { icon: "fa-linkedin", href: "https://www.linkedin.com/in/ana-miller-ter-kuile-4392841a9/", align: right }
