@@ -18,11 +18,11 @@ pacman::p_load(knitr)
 knitr::include_graphics("images/ana.png")
 ```
    
-<h5 style="text-align: center;" markdown="1">
+<h3 style="text-align: center;" markdown="1">
 
 Email: ana.miller-ter-kuile [at] nau [dot] edu
 
-</h5>     
+</h3>     
 
 I am an ecologist who works at the intersection of quantitative, community, and applied ecology.
 
