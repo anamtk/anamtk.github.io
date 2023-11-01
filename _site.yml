@@ -18,6 +18,9 @@ navbar:
   - text: CV
     href: ./pdfs/Miller-terKuile_CV.pdf
     icon: fa-id-card-o
+  - text: Teaching
+    href: teaching.html
+    icon: fa-pencil
   right:
   - icon: fa-github
     href: https://github.com/anamtk
