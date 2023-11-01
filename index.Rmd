@@ -40,7 +40,7 @@ I received my PhD at UC Santa Barbara in 2021, where I explored the effects of s
 
 ---
 
-12. _**Miller-ter Kuile**, A., K. Ogle, C. Cavanaugh, J. Dudley, A. Markus, V. Saab, M. Wright, J. Sanderlin. (2023)_ Forest management, forest vegetation, and climate influence nesting ecology of a focal bird species in the western USA. _Forest Ecology and Management_ [*PDF*](pdfs/Miller-terKuile_FEM2023.pdf)
+12. _**Miller-ter Kuile, A.**, K. Ogle, C. Cavanaugh, J. Dudley, A. Markus, V. Saab, M. Wright, J. Sanderlin. (2023)_ Forest management, forest vegetation, and climate influence nesting ecology of a focal bird species in the western USA. _Forest Ecology and Management_ [*PDF*](pdfs/Miller-terKuile_FEM2023.pdf)
 
 <div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1016/j.foreco.2023.121443"></div>
 
@@ -51,7 +51,7 @@ I received my PhD at UC Santa Barbara in 2021, where I explored the effects of s
 
 ---
 
-11. _**Miller-ter Kuile**, A. A. Apigo, A. Bui, K. Butner, J. Childress, S. Copeland, B. DiFiore, E. Forbes, M. Klope, C. Motta, D. Orr, K. Plummer, D. Preston, H. Young. (2022)_ Changes in invertebrate food web structure between high- and low-productivity environments are driven by intermediate but not top predator diet shifts. _Biology Letters_ [*PDF*](pdfs/Miller-terKuile_BL2022)
+11. _**Miller-ter Kuile, A.**, A. Apigo, A. Bui, K. Butner, J. Childress, S. Copeland, B. DiFiore, E. Forbes, M. Klope, C. Motta, D. Orr, K. Plummer, D. Preston, H. Young. (2022)_ Changes in invertebrate food web structure between high- and low-productivity environments are driven by intermediate but not top predator diet shifts. _Biology Letters_ [*PDF*](pdfs/Miller-terKuile_BL2022)
 
 <div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1098/rsbl.2022.0364"></div>
 
@@ -73,7 +73,7 @@ I received my PhD at UC Santa Barbara in 2021, where I explored the effects of s
 
 ---
 
-9. _Preston, D., E. Crone, A. Miller-ter Kuile, C. Lewis, E. Sauer, D. Trovillion. (2021)_ Nonnative freshwater snails: a synthesis of invasion status, mechanisms of introduction, and ecological roles.  _Freshwater Biology_ [*PDF*](pdfs/Preston_FWE2021.pdf)
+9. _Preston, D., E. Crone, **A. Miller-ter Kuile**, C. Lewis, E. Sauer, D. Trovillion. (2021)_ Nonnative freshwater snails: a synthesis of invasion status, mechanisms of introduction, and ecological roles.  _Freshwater Biology_ [*PDF*](pdfs/Preston_FWE2021.pdf)
 
 <div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1111/fwb.13848"></div>
 
@@ -85,7 +85,7 @@ I received my PhD at UC Santa Barbara in 2021, where I explored the effects of s
 
 ---
 
-7. _**Miller-ter Kuile**, A., A. Apigo, H. Young. (2021)_ Effects of surface sterilization on diet DNA metabarcoding data of invertebrate consumers in mesocosms and natural environments. _Ecology and Evolution_ [*PDF*](pdfs/Miller-terKuile_EE2021.pdf)
+7. _**Miller-ter Kuile, A.**, A. Apigo, H. Young. (2021)_ Effects of surface sterilization on diet DNA metabarcoding data of invertebrate consumers in mesocosms and natural environments. _Ecology and Evolution_ [*PDF*](pdfs/Miller-terKuile_EE2021.pdf)
 
 <div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1002/ece3.7968"></div>
 
@@ -113,7 +113,7 @@ I received my PhD at UC Santa Barbara in 2021, where I explored the effects of s
 
 ---
 
-5. _Lafferty, K., J. McLaughlin, D. Gruner, T. Bogar, A. Bui, J. Childress, M. Espinoza, E. Forbes, C. Johnston, M. Klope, A. Miller-ter Kuile, M. Lee, K. Plummer, D. Weber, R. Young, H. Young. (2018)_ Local extinction of the Asian tiger mosquito (Aedes albopictus) following rat eradication on Palmyra Atoll. _Biology Letters_ [*PDF*](pdfs/Lafferty_BL2018.pdf)
+5. _Lafferty, K., J. McLaughlin, D. Gruner, T. Bogar, A. Bui, J. Childress, M. Espinoza, E. Forbes, C. Johnston, M. Klope, **A. Miller-ter Kuile**, M. Lee, K. Plummer, D. Weber, R. Young, H. Young. (2018)_ Local extinction of the Asian tiger mosquito (Aedes albopictus) following rat eradication on Palmyra Atoll. _Biology Letters_ [*PDF*](pdfs/Lafferty_BL2018.pdf)
 
 <div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1098/rsbl.2017.0743"></div>
 

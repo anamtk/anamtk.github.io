@@ -1,6 +1,29 @@
 ---
 title: ""
-output: html_document
-date: ""
+output: 
+  html_document:
+    theme: yeti
 ---
+
+```{r, echo=F, warning=F, message=F}
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(knitr)
+```
+
+## Team-based interdisciplinary research
+
+In this course, graduate students form teams to write a research proposal and learn strategies for effective team dynamics, including increasing team diversity, dealing with conflict, and communication. 
+
+[**Course Website**](https://anamtk.github.io/team_based_science/)
+
+## Introduction to R for ecologists
+
+In this workshop series, students learn the ways in which ecologists use R to compile, tidy, visualize, and analyze ecological datasets.
+
+[**NAU Introduction to R for RaMP Fellows**](https://anamtk.github.io/NAU_R_Workshop/)
+
+[**UCSB Introduction to R Workshop**](https://hlowman.github.io/ucsb_r_workshop/)
+
+
+
 
