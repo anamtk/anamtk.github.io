@@ -32,7 +32,7 @@ Forest restoration can impact wildlife populations, but may have variable effect
 
 > Prioritizing forest management that creates heterogenous patches of forested and unforested areas with a combination of burning and tree removal will likely increase white-headed woodpecker nesting success.
 
-In a study published in [_Forest Ecology and Management_](pdfs/Miller-terKuile_FEM2023.pdf) in 2023, we demonstrated that forest restoration treatments influence nesting ecology of white-headed woodpeckers, including when birds decide to start nesting and how well eggs and nestlings survive. Forest restoration influences the nesting ecology of white-headed woodpeckers, with different effects as nests age. 
+In [a study](pdfs/Miller-terKuile_FEM2023.pdf) published in _Forest Ecology and Management_ in 2023, we demonstrated that forest restoration treatments influence nesting ecology of white-headed woodpeckers, including when birds decide to start nesting and how well eggs and nestlings survive. Forest restoration influences the nesting ecology of white-headed woodpeckers, with different effects as nests age. 
 
 ```{r, echo=FALSE, out.width = '50%', fig.align='center', fig.alt = "Distributions of nesting dates, eggs, nestlings, and fledglings for white-headed woodpeckers."}
 knitr::include_graphics("images/whwonests.jpg")
