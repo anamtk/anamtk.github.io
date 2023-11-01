@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Teaching"
 output: 
   html_document:
     theme: yeti
@@ -10,11 +10,15 @@ if (!require("pacman")) install.packages("pacman")
 pacman::p_load(knitr)
 ```
 
+---
+
 ## Team-based interdisciplinary research
 
 In this course, graduate students form teams to write a research proposal and learn strategies for effective team dynamics, including increasing team diversity, dealing with conflict, and communication. 
 
 [**Course Website**](https://anamtk.github.io/team_based_science/)
+
+---
 
 ## Introduction to R for ecologists
 
