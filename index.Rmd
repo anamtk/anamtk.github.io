@@ -34,18 +34,109 @@ I received my PhD at UC Santa Barbara in 2021, where I explored the effects of s
 
 ----------------------------------
 
-## Publications, Tutorials, Talks
+## Publications
 
 ##
 
-2. _**Miller-ter Kuile, A.**, A. Apigo, A. Bui, B. DiFiore, E. S. Forbes, M. Lee, D. Orr, D. L. Preston, R. Behm, T. Bogar, J. Childress, R. Dirzo, M. Klope, K. D. Lafferty, J. McLaughlin, M. Morse, C. Motta, K. Park, K. Plummer, D. Weber, R. Young, H. Young. (2022)_ Predator–prey interactions of terrestrial invertebrates are determined by predator body size and species identity. _Ecology_ [*PDF*](pdfs/Miller-terKuile_Ecology2022.pdf)
+---
+
+12. _**Miller-ter Kuile**, A., K. Ogle, C. Cavanaugh, J. Dudley, A. Markus, V. Saab, M. Wright, J. Sanderlin. (2023)_ Forest management, forest vegetation, and climate influence nesting ecology of a focal bird species in the western USA. _Forest Ecology and Management_ [*PDF*](pdfs/Miller-terKuile_FEM2023.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1016/j.foreco.2023.121443"></div>
+
+##
+**Data and code**
+
+- [GitHub Repository](https://github.com/anamtk/whwo_nest_ecology)
+
+---
+
+11. _**Miller-ter Kuile**, A. A. Apigo, A. Bui, K. Butner, J. Childress, S. Copeland, B. DiFiore, E. Forbes, M. Klope, C. Motta, D. Orr, K. Plummer, D. Preston, H. Young. (2022)_ Changes in invertebrate food web structure between high- and low-productivity environments are driven by intermediate but not top predator diet shifts. _Biology Letters_ [*PDF*](pdfs/Miller-terKuile_BL2022)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1098/rsbl.2022.0364"></div>
+
+##
+**Data and code**
+
+- [GitHub Repository](https://github.com/anamtk/dna_isotopes)
+
+---
+
+10. _**Miller-ter Kuile, A.**, A. Apigo, A. Bui, B. DiFiore, E. S. Forbes, M. Lee, D. Orr, D. L. Preston, R. Behm, T. Bogar, J. Childress, R. Dirzo, M. Klope, K. D. Lafferty, J. McLaughlin, M. Morse, C. Motta, K. Park, K. Plummer, D. Weber, R. Young, H. Young. (2022)_ Predator–prey interactions of terrestrial invertebrates are determined by predator body size and species identity. _Ecology_ [*PDF*](pdfs/Miller-terKuile_Ecology2022.pdf)
 
 <div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1002/ecy.3634"></div>
 
+##
+**Data and code**
+
+- [GitHub Repository](https://github.com/anamtk/DNA_predators)
+
 ---
 
-1. _**Miller-ter Kuile A.**, D. Orr, A. Bui, R. Dirzo, M. Klope, D. McCauley, C. Motta, H. Young (2020)_ Impacts of rodent eradication on seed predation and plant community biomass on a tropical atoll. _Biotropica_ [*PDF*](pdfs/Miller-terKuile_Biotropica2020.pdf)
+9. _Preston, D., E. Crone, A. Miller-ter Kuile, C. Lewis, E. Sauer, D. Trovillion. (2021)_ Nonnative freshwater snails: a synthesis of invasion status, mechanisms of introduction, and ecological roles.  _Freshwater Biology_ [*PDF*](pdfs/Preston_FWE2021.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1111/fwb.13848"></div>
+
+---
+
+8. _Parsons, J. D. Orr, C. Motta, G. Sehgal, **A. Miller-ter Kuile**, H. Young. (2021)_ The effects of climate and grazing on oak seedling germination and survival in a California oak woodland. _Forest Ecology and Management_ [*PDF*](pdfs/Parsons_FEM2021.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1016/j.foreco.2021.119650"></div>
+
+---
+
+7. _**Miller-ter Kuile**, A., A. Apigo, H. Young. (2021)_ Effects of surface sterilization on diet DNA metabarcoding data of invertebrate consumers in mesocosms and natural environments. _Ecology and Evolution_ [*PDF*](pdfs/Miller-terKuile_EE2021.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1002/ece3.7968"></div>
+
+##
+**Data and code**
+
+- [GitHub Repository](https://github.com/anamtk/DNA_Diet_Methods)
+
+---
+
+6. _**Miller-ter Kuile A.**, D. Orr, A. Bui, R. Dirzo, M. Klope, D. McCauley, C. Motta, H. Young (2020)_ Impacts of rodent eradication on seed predation and plant community biomass on a tropical atoll. _Biotropica_ [*PDF*](pdfs/Miller-terKuile_Biotropica2020.pdf)
 
 <div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1111/btp.12864"></div>
 
+##
+**Data and code**
+
+- [GitHub Repository](https://github.com/anamtk/palmyra-rats-cocos)
+
+**Media Coverage**
+
+- [UCSB Current: *Plot Twist*, by Sonia Hernandez](https://news.ucsb.edu/2020/020085/plot-twist)
+- [The Economist: *Kill One Unwanted Species, and Another Arises*, by Matt Kaplan](https://www.economist.com/science-and-technology/2020/10/29/kill-one-unwanted-species-and-another-arises?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gclid=CjwKCAjw7oeqBhBwEiwALyHLM5pad4jHn1Km81e3TzxSftUabgxUy5B8UojgMiFHpWVo03ZHwdC62hoClpMQAvD_BwE&gclsrc=aw.ds)
+- [Atlas Obscura: *To Restore Remote Palmyra Atoll, Getting Rid of Rats Was Just the First Step*, by Luna Shyr](https://www.atlasobscura.com/articles/rats-coconuts-palmyra-atoll)
+
 ---
+
+5. _Lafferty, K., J. McLaughlin, D. Gruner, T. Bogar, A. Bui, J. Childress, M. Espinoza, E. Forbes, C. Johnston, M. Klope, A. Miller-ter Kuile, M. Lee, K. Plummer, D. Weber, R. Young, H. Young. (2018)_ Local extinction of the Asian tiger mosquito (Aedes albopictus) following rat eradication on Palmyra Atoll. _Biology Letters_ [*PDF*](pdfs/Lafferty_BL2018.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1098/rsbl.2017.0743"></div>
+
+---
+
+4. _Hardesty-Moore, M, S. Deinet, R. Freeman, G. Titcomb, E. Dillon, K. Stears, M. Klope, A. Bui, D. Orr, H. Young, **A. Miller-ter Kuile**, L. Hughey, D. McCauley. (2018)_ Migration in the Anthropocene: how collective navigation, environmental system, and taxonomy shape the vulnerability of migratory species. _Phil. Trans. B: Biological Sciences_ [*PDF*](pdfs/Hardesty-Moore_PTB2018.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1098/rstb.2017.0017"></div>
+
+---
+
+3. _Nigro, K., S. Hathaway, A. Wegmann, **A. Miller-ter Kuile**, R. Fisher, H. Young. (2017)_ Stable isotope analysis as an early monitoring tool for community-scale effects of rat eradication. _Restoration Ecology_. [*PDF*](pdfs/Nigro_RE2017.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1111/rec.12511"></div>
+
+---
+
+2. _Young, H., **A. Miller-ter Kuile**, D. McCauley, R. Dirzo. (2017)_ Cascading community and ecosystem consequences of introduced palms in tropical islands. _Canadian Journal of Zoology_ [*PDF*](pdfs/Young_CJZ2017.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1139/cjz-2016-0107"></div>
+
+---
+
+1. _Young, H., D. McCauley, R. Dunbar, M. Hutson, **A. Miller-ter Kuile**, R. Dirzo. (2013)_ The roles of productivity and ecosystem size in determining food chain length in tropical Pacific islets. _Ecology_ [*PDF*](pdfs/Young_Ecology2013.pdf) 
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1890/12-0729.1"></div>

@@ -28,15 +28,19 @@ body {text-align: left}
 
 ## 1. Forest restoration and wildlife population dynamics
 
+Forest restoration can impact wildlife populations, but may have variable effects depending on life stage. In this project, I am collaborating with researchers at Rocky Mountain Research Station and Northern Arizona University to examine the effects of forest restoration on a focal species, the white-headed woodpecker, in Oregon and Idaho. 
+
+> Forest restoration influences the nesting ecology of white-headed woodpeckers, with different effects as nests age. 
+
 ------------------------------------------------------------------------
 
-## 2. Using long-term community data to track community change
+## 2. Modeling community change with long-term data
 
 ------------------------------------------------------------------------
 
-## 3. Species interactions driven by traits
+## 3. How species traits and identities shape trophic interactions
 
---------------------
+----------------------------------------------------------
 
 ## 4. The impacts of invasive species eradications on ecosystem processes
 
