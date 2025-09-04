@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research Themes"
 output:
   html_document:
     toc: yes
@@ -29,67 +29,85 @@ p.caption {
 
 ------------------------------------------------------------------------
 
-## 1. Forest restoration and wildlife population dynamics
+## 1. Bird population dynamics
 
-Forest restoration can impact wildlife populations, but may have variable effects depending on life stage. In this project, I am collaborating with researchers at Rocky Mountain Research Station and Northern Arizona University to examine the effects of forest restoration on a focal species, the white-headed woodpecker, in Oregon and Idaho. 
+In these projects, I use a variety of statistical models and dataset sources to explore population dynamics in bird populations. These projects involve long-term data from a variety of structured monitoring and participatory science outlets and aim to collate available information to understand drivers of trends in birds in a variety of landscapes. 
 
-### 1.1 White-headed woodpecker nesting ecology
+### 1.1 Relationships between seed availability and a declining seed diperser
+
+In this project, we are examining relationships between declining pinyon jays and pinyon pine cone production across the Southwest USA. We're combining stochastic antecedent modeling to explore the temporal relationships between bird abundance and seed availability and exploring how climate and habitat context alter the dependency of pinyon jays on pinyon cones. We're using participatory ("citizen") science data from [eBird](https://ebird.org/home) in this project because this dataset has broad temporal and spatial coverage in this region. 
+
+> Pinyon jays are most abundant during the nesting season in locations where they cached seeds in the previous year and there seem to be 3-4 year population effects from seed resource pulses.
+
+```{r, echo=FALSE, out.width = '50%', fig.align='center', fig.cap = "Figure 1: Importance weights of different years of cone availability to the relationship between jay abundance and cones. The strongest effect is the year following cone production, when jays can be found near areas where they cached seeds the previous year. There is also a longer-term population signal of pinyon cone seed resource pulses."}
+knitr::include_graphics("images/cone_weights.jpg")
+```
+
+> Pinyon jays rely more on cones during "stressful" climatic events and rely less on cones in more "favorable" habitat conditions. High-quality resources are more important when they are more rare; favorable habitat may increase food source diversity and competition among jays and other species of seed eaters.
+
+```{r, echo=FALSE, out.width = '50%', fig.align='center', fig.cap = "Figure 2: Interaction plots between pinyon cone abundance and climate and habitat covariates for pinyon jay abundance. At high values of precipitation and maximum temperature, birds have stronger relationships with cone availability (a and b). Conversely, at high values of pinyon basal area or monsoonality (how much moisture a site receives during the monsoon season), birds rely less on pinyon cones (c and d)."}
+knitr::include_graphics("images/interaction_plots.jpg")
+```
+
+are most abundant during the nesting season in locations where they cached seeds in the previous year and there seem to be 3-4 year population effects from seed resource pulses.
+
+### 1.2 White-headed woodpecker populations under active management
 
 > Prioritizing forest management that creates heterogenous patches of forested and unforested areas with a combination of burning and tree removal will likely increase white-headed woodpecker nesting success.
 
 In [a study](pdfs/Miller-terKuile_FEM2023.pdf) published in _Forest Ecology and Management_ in 2023, we demonstrated that forest restoration treatments influence nesting ecology of white-headed woodpeckers, including when birds decide to start nesting and how well eggs and nestlings survive. Forest restoration influences the nesting ecology of white-headed woodpeckers, with different effects as nests age. 
 
-```{r, echo=FALSE, out.width = '50%', fig.align='center', fig.cap = "Figure 1: Distributions of nesting dates, eggs, nestlings, and fledglings for white-headed woodpeckers."}
+```{r, echo=FALSE, out.width = '50%', fig.align='center', fig.cap = "Figure 3: Distributions of nesting dates, eggs, nestlings, and fledglings for white-headed woodpeckers."}
 knitr::include_graphics("images/whwonests.jpg")
 ```
 
-### 1.2 White-headed woodpecker population trajectories
+> White-headed woodpecker populations are stable under active management and more influenced by climate than management.
 
-> How do the combined effects on all life stages influence population dynamics?
-
-```{r, echo=FALSE, out.width = '60%', fig.cap = "Figure 2: Combining point-process data from multiple sources to inform population trajectories of white-headed woodpeckers.", fig.align='center'}
-knitr::include_graphics("images/picture_ipm.png")
+```{r, echo=FALSE, out.width = '60%', fig.cap = "Figure 4: White-headed woodpecker population growth rate, with years of active management highlighted in red.", fig.align='center'}
+knitr::include_graphics("images/FigureX_trends.jpg")
 ```
 
-In the next stage of this project, we are combining data on adult and nesting stages into an integrated population model that will help us understand the population trajectories of white-headed woodpeckers, which life stages are shaping those trajectories, and how forest management intersects with other variables, such as climate, to shape populations in the future. 
+Combining data on these life stages and adult survival, we estimated that white-headed woodpecker populations are stable under active management. Further, climate seems most important to population growth and most life stages, but there is variation across populations. This variation highlights that forest restoration management has variable effects on populations depending on local habitat and climate context.
 
-```{r, echo=FALSE, out.width = '60%', fig.cap = "Figure 3: Relative importance of different covariate groups to egg and nestling survival. For these stages, climate is most important and forest treatment (burning and tree removal) is relatively unimportant relative to other variables.", fig.align='center'}
-knitr::include_graphics("images/example_importance.png")
+```{r, echo=FALSE, out.width = '60%', fig.cap = "Figure 5: Relative importance of different covariate groups to egg, nestling, and adult survival and overall population growth. Management has a much smaller influence than climate in most cases, but there is variation across life stages and populations.", fig.align='center'}
+knitr::include_graphics("images/FigureX_hp.jpg")
 ```
+
+
 ------------------------------------------------------------------------
 
 ## 2. Modeling community change
 
 As a community ecologist, I am interested in how the environment shapes communities as a way to predict how ongoing and future Anthropogenic alterations shape biodiversity. My current work in community ecology combines concepts drawn from community ecology theory (e.g., beta diversity, functional diversity) as well as advanced modeling of large datasets using Bayesian statistics. 
 
-### 2.1 Long-term community change - the roles of environmental variability and detection error
+### 2.1 Bird community ecology and forest restoration
 
-> Long-term community stability is higher when accounting for detection error in observation datasets and subject to immediate and lagged effects of environmental conditions. 
+> How has forest management influenced bird communities of wildlife across the western USA?
 
-In this project, we are leveraging multiple long-term datasets (e.g., NSF-LTER sites, National Park Service Inventory and Monitoring) to understand how detection error in community datasets shapes our estimates of community stability (e.g., how much communities change) through time and then using modeled estimates of stability to explore how the environment shapes community change with both immediate and lagged effects. 
+This project is a collaboration with researchers at the Rocky Mountain Research Station and US Forest Service land managers. In this project, we are compiling data from systematic bird surveys across the Western United States to understand how forest management influences community structure and function. We aim to generate trait-based approaches to understanding how forest management shapes bird communities and use this as a method for tracking community response and likely ecological outcomes of forest management in the past and future. This project integrates multiple large datasets ([IMBCR](https://www.birdconservancy.org/what-we-do/science/monitoring/imbcr-program/) bird surveys and [AVONET](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898) trait database) and aims to quantify the effects of wildlife risk reduction. 
 
-```{r, echo=FALSE, out.width = '90%', fig.cap = "Figure 4: Accounting for detection error reduces variation and magnitude of community change for an example dataset of grasshopper communities tracked in Sevilleta LTER between 1993 and 2019.", fig.align='center'}
-knitr::include_graphics("images/detect_hopper.png")
+In a synthesis [study](pdfs/Miller-terKuile_FEE2025.pdf), my colleagues and I highlighted the need for explicit metrics of ecological integrity that include animal communities, especially in terrestrial systems. We proposed a general framework based on functional ecology and functional traits (traits of species that can influence their ecosystem) for developing general metrics of ecological integrity using animal communities. 
+
+
+```{r, echo=FALSE, out.width = '60%', fig.cap = "Figure 6: There are a growing number of studies about ecological integrity, many of which explicitly describe animal communities (a). However, the majority of these studies are in aquatic environments (b).", fig.align='center'}
+knitr::include_graphics("images/Figure_1.jpg")
+```
+
+Building on this and using a dataset of bird communities from Arizona and New Mexico, USA, we are exploring the functional richness and composition of seed dispersing birds in these landscapes. 
+
+```{r, echo=FALSE, out.width = '60%', fig.cap = "Figure 7: Plotting trait space of two morphological traits that determine dispersal ability (wing morphology and mass) demonstrates that there are four distinct groups of seed dispersers with variable functional roles in this system. These four groups differ in the number and size of seeds they disperse (mass) and the distance they disperse these seeds on the landscape (wing morphology).", fig.align='center'}
+knitr::include_graphics("images/conifer_groups_color.jpg")
 ```
 
 
-```{r, echo=FALSE, out.width = '80%', fig.cap = "Figure 5: Grasshopper communities in Sevilleta LTER respond to both temperature and precipitation with immediate and lagged responses. Varying responses are likely related to a combination of physiology (e.g., overwintering success) and resource availability (e.g., lagged responses between plant and consumer population dynamics).", fig.align='center'}
-knitr::include_graphics("images/sam_hopper.png")
-```
 
-### 2.2 Bird community ecology and forest restoration
-
-> How has forest management influenced bird  communities of wildlife across the western USA?
-
-This project is a collaboration with researchers at the Rocky Mountain Research Station and US Forest Service land managers. In this project, we are compiling data from systematic bird surveys across the Western United States to understand how forest management influences community structure and function. We aim to generate trait-based approaches to understanding how forest management shapes bird communities and use this as a method for tracking community response and likely ecological outcomes of forest management in the past and future. This project integrates multiple large datasets ([IMBCR](https://www.birdconservancy.org/what-we-do/science/monitoring/imbcr-program/) bird surveys and [AVONET](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13898) trait database) and aims to quantify the effects of wildlife risk reduction through the US Forest Service 10-year Wildfire Crisis Strategy. 
-
-```{r, echo=FALSE, out.width = '60%', fig.cap = "Figure 6: Size distribution of species in a subset of the dataset including four National Forests in Arizona, USA.", fig.align='center'}
-knitr::include_graphics("images/4frisizeplot.png")
+```{r, echo=FALSE, out.width = '60%', fig.cap = "Figure 8: A plot of canopy cover of sites in the dataset and the number of functional groups in each of those conditions demonstrates that there is a peak in functional richness and medium-low canopy cover.", fig.align='center'}
+knitr::include_graphics("images/funrich.png")
 ```
 
 
-```{r, echo=FALSE, out.width = '90%', fig.cap = "Figure 7: In the Arizona landscape, most of the birds and the largest abundance of birds are insectivores. We could compare the number and size of insectivores across landscapes undergoing active management and those that are not to understand how forest management might change forest dynamics such as insect pest outbreaks.", fig.align='center'}
-knitr::include_graphics("images/4fritgroup.png")
+```{r, echo=FALSE, out.width = '90%', fig.cap = "Figure 9: Examining the composition of the sites in this dataset (functional groups and number of species in each of them) demonstrates that low canopy conditions have distinct disperser communities from high canopy conditions. At medium-low canopy, there is a transition state from the low- to high-canopy disperser community composition.", fig.align='center'}
+knitr::include_graphics("images/funcomp.png")
 ```
 
 ------------------------------------------------------------------------

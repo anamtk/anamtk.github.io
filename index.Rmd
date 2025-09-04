@@ -15,7 +15,7 @@ pacman::p_load(knitr)
 ###
 
 ```{r, echo=FALSE, out.width = '30%', fig.align='center'}
-knitr::include_graphics("images/ana.png")
+knitr::include_graphics("images/ana.jpg")
 ```
    
 <h3 style="text-align: center;" markdown="1">
@@ -26,7 +26,7 @@ Email: ana.miller-ter-kuile [at] nau [dot] edu
 
 I am an ecologist who works at the intersection of quantitative, community, and applied ecology.
 
-I am an assistant research professor at Northern Arizona University. I work primarily with the USDA Forest Service Rocky Mountain Research Station. I currently apply Bayesian statistical and process models to understand the population and community responses of wildlife to forest management and restoration.
+I am an assistant research professor at Northern Arizona University. My current work uses Bayesian statistical and process models to understand population and community ecology. My work spans basic and applied ecological questions and explores patterns in a variety of taxa, including plants, invertebrates, and birds. 
 
 I received my PhD at UC Santa Barbara in 2021, where I explored the effects of species traits on trophic dynamics and the interactions between native and invasive species in shaping community structure and ecosystem functioning. I worked in field settings and developed methods in diet DNA metabarcoding for understanding species interactions.
 
@@ -37,6 +37,32 @@ I received my PhD at UC Santa Barbara in 2021, where I explored the effects of s
 ## Publications
 
 ##
+
+---
+
+15. _**Miller-ter Kuile, A.**, A. Bui, A. Apigo, S. Lamm, M. Swan, J. Sanderlin, K. Ogle. (2025)_ If you're rare, should I care? How imperfect detection changes relationships between biodiversity and global change drivers. _Global Change Biology_ [*PDF*](pdfs/Miller-terKuile_GCB2025.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1111/gcb.70362"></div>
+
+##
+
+**Data and code**
+
+- [GitHub Repository](https://github.com/anamtk/community_detection)
+- [Tutorial](https://an-bui.github.io/community_detection_tutorial/)
+
+
+---
+
+14. _**Miller-ter Kuile, A.**, J. Sanderlin, J. Ayars, H. Chmura, M. Dressen, J. Golding, G. Jones, R. Kirby, K. Norman, Z. Steel, V. Stein Foster. (2025)_ Functionalizing ecological integrity: using functional ecology to monitor animal communities. _Frontiers in Ecology & the Environment_ [*PDF*](pdfs/Miller-terKuile_FEE2025.pdf) 
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1002/fee.2852"></div>
+
+---
+
+13. _Rodman, K.C., J. Bradford, A. Formanack, P. Fulé, D. Huffman, T. Kolb, **A. Miller-ter Kuile**, D. Normandin, K. Ogle, R. Pedersen, D. Schlaepfer, M. Stoddard, A. Waltz. (2024)_ Restoration treatments enhance tree growth and alter climate constraints during extreme droughts. _Ecological Applications_ [*PDF*](pdfs/Rodman_EcoApp2025.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1002/eap.3072"></div>
 
 ---
 

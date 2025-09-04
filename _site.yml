@@ -15,9 +15,6 @@ navbar:
   - text: Research
     href: research.html
     icon: fa-signal
-  - text: CV
-    href: ./pdfs/Miller-terKuile_CV.pdf
-    icon: fa-id-card-o
   - text: Teaching
     href: teaching.html
     icon: fa-pencil
