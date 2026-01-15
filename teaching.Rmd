@@ -22,7 +22,7 @@ In this course, graduate students form teams to write a research proposal and le
 
 ## Introduction to R for ecologists
 
-In this workshop series, students learn the ways in which ecologists use R to compile, tidy, visualize, and analyze ecological datasets.
+In this workshop series, students learn the ways in which ecologists use R to compile, tidy, visualize, and analyze ecological datasets. In these workshops, I use my training as a [Software Carpentry](https://software-carpentry.org/) instructor to use evidence-based techniques for teaching scientific programming. 
 
 [**NAU Introduction to R for RaMP Fellows 2024**](https://anamtk.github.io/NAU_R_Workshop2024/)
 
@@ -31,5 +31,11 @@ In this workshop series, students learn the ways in which ecologists use R to co
 [**UCSB Introduction to R Workshop**](https://hlowman.github.io/ucsb_r_workshop/)
 
 
+---
 
+## NSF Alliances for Graduate Education and Professoriate California HSI Alliance Fellowship
+
+I was a fellow in the NSF AGEP program at UCSB from 2019 - 2021. Through this program I got training in science-based pedagogy that fosters student success for students from all backgrounds. I co-taught a soil science course with my mentor, Erich Fleming, a faculty member at CSU Channel Islands. 
+
+[NSF AGEP California HSI Alliance](https://hsi-agep.ucmerced.edu/)
 

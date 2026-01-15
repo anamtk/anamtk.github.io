@@ -29,6 +29,8 @@ p.caption {
 
 ------------------------------------------------------------------------
 
+My research spans a variety of research themes, with my primary focus on understanding community and population responses of wildlife to forest management, restoration, and climate change. This page outlines a few of my current research projects and links to my published work by theme. 
+
 ## 1. Bird population dynamics
 
 In these projects, I use a variety of statistical models and dataset sources to explore population dynamics in bird populations. These projects involve long-term data from a variety of structured monitoring and participatory science outlets and aim to collate available information to understand drivers of trends in birds in a variety of landscapes. 
@@ -112,21 +114,25 @@ knitr::include_graphics("images/funcomp.png")
 
 ------------------------------------------------------------------------
 
-## 3. Past projects
+## 3. Published research themes
 
-#### 3.1 Ecosystem productivity shapes food webs and predator-prey dynamics
+#### Forest management impacts forest ecosystems
 
-[Miller-ter Kuile, A., et al. (2022)](pdfs/Miller-terKuile_BL2022) 
+[Miller-ter Kuile, A., et al. (2023)](pdfs/Miller-terKuile_FEM2023.pdf)
 
-[Young, H., et al. (2013)](pdfs/Young_Ecology2013.pdf) 
+[Rodman, K. C., et al. (2024)](pdfs/Rodman_EcoApps2025.pdf)
 
-#### 3.2 Species traits and identity shape food web structure
+[Parsons, J. et al. (2021)](pdfs/Parson_FEM2021.pdf)
 
-[Miller-ter Kuile, A., et al. (2022)](pdfs/Miller-terKuile_Ecology2022.pdf)
+#### Forest animals as metrics of post-management ecological integrity
 
-#### 3.3 Invasive species and their eradications impact community and ecosystem structure and dynamics
+[Miller-ter Kuile, A., et al. (2025)](pdfs/Miller-terKuile_FEE2025.pdf)
 
-[Miller-ter Kuile A., et al. (2020)](pdfs/Miller-terKuile_Biotropica2020.pdf) 
+#### Invasive species and their eradications impact community and ecosystem structure and dynamics
+
+[Preston, D., et al. (2021)](pdfs/Preston_FWE2021.pdf)
+
+[Miller-ter Kuile, A., et al. (2020)](pdfs/Miller-terKuile_Biotropica2020.pdf) 
 
 [Lafferty, K., et al. (2018)](pdfs/Lafferty_BL2018.pdf)
 
@@ -134,5 +140,18 @@ knitr::include_graphics("images/funcomp.png")
 
 [Young, H., et al. (2017)](pdfs/Young_CJZ2017.pdf)
 
+#### Long-term datasets and statistical techniques for tracking biodiversity change
+
+[Miller-ter Kuile, A. et al. (2025)](pdfs/Miller-terKuile_GCB2025.pdf)
+
+[Hardesty-Moore, M., et al. (2018)](pdfs/Hardesty-Moore_PTB2018.pdf)
+
+#### Food webs are shaped by ecosystem productivity and traits
+
+[Miller-ter Kuile, A., et al. (2022)](pdfs/Miller-terKuile_BL2022) 
+
+[Miller-ter Kuile, A., et al. (2022)](pdfs/Miller-terKuile_Ecology2022.pdf)
+
+[Young, H., et al. (2013)](pdfs/Young_Ecology2013.pdf) 
 
 ------------------------------------------------------------------------
