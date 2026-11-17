@@ -38,6 +38,16 @@ I received my PhD at UC Santa Barbara in 2021, where I explored the effects of s
 
 ##
 
+17. _Lee, M., L. Ponisio, K. Konicek, **A. Miller-ter Kuile**, H. S. Young. (2026)_ Island polliantion networks are primarily shaped by habitat size. _Diversity and Distributions_
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1111/ddi.70280"></div>
+
+---
+
+16. _**Miller-ter Kuile, A.**, K. Ogle, J. Dudley, V. Saab, M. Wright, J. S. Sanderlin. (2026)_ The effects of habitat management on populations of a sensitive bird species vary with local climate and habitat. _Journal of Applied Ecology_ [*PDF*](pdfs/Miller-terKuile_JAE2026.pdf)
+
+<div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1111/1365-2664.70372"></div>
+
 ---
 
 15. _**Miller-ter Kuile, A.**, A. Bui, A. Apigo, S. Lamm, M. Swan, J. Sanderlin, K. Ogle. (2025)_ If you're rare, should I care? How imperfect detection changes relationships between biodiversity and global change drivers. _Global Change Biology_ [*PDF*](pdfs/Miller-terKuile_GCB2025.pdf)
